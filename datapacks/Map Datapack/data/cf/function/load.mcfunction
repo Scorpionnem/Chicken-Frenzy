@@ -1,3 +1,4 @@
+#Adds all scoreboards and teams just in case, will be removed later on
 scoreboard objectives add feathers dummy
 scoreboard objectives add timer dummy
 scoreboard objectives add timer2 dummy
