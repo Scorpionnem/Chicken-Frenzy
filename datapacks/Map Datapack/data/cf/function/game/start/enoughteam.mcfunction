@@ -1,0 +1,2 @@
+execute if score .teamcount playercount = .playercount playercount run function cf:game/start/start
+execute if score .teamcount playercount < .playercount playercount run function cf:game/start/cantstartenoughteam

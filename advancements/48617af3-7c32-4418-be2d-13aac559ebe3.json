@@ -1,0 +1,15 @@
+{
+  "cf:right_click": {
+    "criteria": {
+      "requirement": "2024-02-21 15:10:59 +0100"
+    },
+    "done": true
+  },
+  "cf:left_click": {
+    "criteria": {
+      "requirement": "2024-02-21 15:19:32 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3817
+}

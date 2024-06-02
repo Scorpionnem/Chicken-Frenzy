@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:entity_killed_player",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:creeper",
+            "nbt": "{Tags:[\"pop\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "cf:deathmessages/decoy"
+    }
+  }
+  

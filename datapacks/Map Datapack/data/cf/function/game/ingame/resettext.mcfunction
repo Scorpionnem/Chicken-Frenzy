@@ -1,0 +1,16 @@
+execute if score .blueshop buttonsel matches 7 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"ChickenWings10"}
+execute if score .redshop buttonsel matches 1 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"Smallinator1"}
+execute if score .blueshop buttonsel matches 6 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"FeatherChestplate2"}
+execute if score .blueshop buttonsel matches 5 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"FlashEgg1"}
+execute if score .blueshop buttonsel matches 4 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"Featherstaff3"}
+execute if score .blueshop buttonsel matches 3 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"Chickenride3"}
+execute if score .blueshop buttonsel matches 2 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"Biginator1"}
+execute if score .blueshop buttonsel matches 1 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"Smallinator1"}
+execute if score .redshop buttonsel matches 7 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"ChickenWings10"}
+execute if score .redshop buttonsel matches 6 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"FeatherChestplate2"}
+execute if score .redshop buttonsel matches 5 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"FlashEgg1"}
+execute if score .redshop buttonsel matches 4 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"Featherstaff3"}
+execute if score .redshop buttonsel matches 3 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"Chickenride3"}
+execute if score .redshop buttonsel matches 2 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"Biginator1"}
+execute if score .blueshop buttonsel matches 8 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=blue] {text:"ChickenDecoy6"}
+execute if score .redshop buttonsel matches 8 run data merge entity @e[type=minecraft:text_display,limit=1,sort=nearest,tag=red] {text:"ChickenDecoy6"}

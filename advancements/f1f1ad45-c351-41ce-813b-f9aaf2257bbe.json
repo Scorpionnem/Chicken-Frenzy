@@ -1,0 +1,15 @@
+{
+  "cf:right_click": {
+    "criteria": {
+      "requirement": "2024-04-24 11:30:53 +0200"
+    },
+    "done": true
+  },
+  "cf:deathbyplayer": {
+    "criteria": {
+      "requirement": "2024-04-24 11:31:39 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3837
+}

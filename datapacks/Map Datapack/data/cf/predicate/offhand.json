@@ -1,0 +1,23 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "equipment": {
+        "offhand": {
+          "items": [
+            "minecraft:paper",
+            "minecraft:carrot_on_a_stick",
+            "minecraft:warped_fungus_on_a_stick",
+            "minecraft:stick",
+            "minecraft:elytra",
+            "minecraft:firework_rocket",
+            "minecraft:iron_chestplate",
+            "minecraft:trident",
+            "minecraft:splash_potion"
+          ]
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,27 @@
+{
+  "cf:right_click": {
+    "criteria": {
+      "requirement": "2024-04-24 00:13:04 +0200"
+    },
+    "done": true
+  },
+  "cf:left_click": {
+    "criteria": {
+      "requirement": "2024-04-24 00:16:40 +0200"
+    },
+    "done": true
+  },
+  "cf:deathbyplayer": {
+    "criteria": {
+      "requirement": "2024-04-24 00:16:27 +0200"
+    },
+    "done": true
+  },
+  "cf:deathbypop": {
+    "criteria": {
+      "requirement": "2024-04-24 00:29:03 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3837
+}

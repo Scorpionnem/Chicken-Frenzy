@@ -1,0 +1,1 @@
+execute at @a as @a run playsound minecraft:item.goat_horn.sound.0 ambient @s ~ ~ ~

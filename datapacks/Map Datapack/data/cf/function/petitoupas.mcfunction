@@ -1,0 +1,1 @@
+execute at @s if block ~ ~1 ~ #cf:air run execute at @s[scores={carrotstick=1..},nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",components:{"minecraft:custom_data":{customTag:2}}}}] run function cf:abilities/size/big

@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item_display,limit=1,tag=goldenegg] at @s run tp @s ~ ~ ~ 0 0
