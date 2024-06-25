@@ -11,5 +11,15 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "DataVersion": 3952
+=======
+  "cf:left_click": {
+    "criteria": {
+      "requirement": "2024-06-02 11:54:19 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3951
+>>>>>>> f267aa43a9ed97d1df3bb662d90f5dd1dbd94016
 }
