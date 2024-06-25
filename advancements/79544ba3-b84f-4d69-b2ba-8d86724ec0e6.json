@@ -5,5 +5,17 @@
     },
     "done": false
   },
+  "cf:right_click": {
+    "criteria": {
+      "requirement": "2024-06-25 19:35:36 +0200"
+    },
+    "done": true
+  },
+  "cf:left_click": {
+    "criteria": {
+      "requirement": "2024-06-25 19:35:56 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
