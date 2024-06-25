@@ -1,25 +1,9 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:jungle": "2024-06-11 13:07:00 +0200"
+      "minecraft:jungle": "2024-06-25 19:35:11 +0200"
     },
     "done": false
   },
-  "cf:right_click": {
-    "criteria": {
-      "requirement": "2024-06-11 13:07:19 +0200"
-    },
-    "done": true
-  },
-<<<<<<< HEAD
-  "DataVersion": 3952
-=======
-  "cf:left_click": {
-    "criteria": {
-      "requirement": "2024-06-02 11:54:19 +0200"
-    },
-    "done": true
-  },
-  "DataVersion": 3951
->>>>>>> f267aa43a9ed97d1df3bb662d90f5dd1dbd94016
+  "DataVersion": 3953
 }
